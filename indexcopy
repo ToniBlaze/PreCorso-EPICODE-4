@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alessio Toninello</title>
+</head>
+<body>
+    <h1>Ciao, sono Alessio! </h1>
+   <img src="https://www.ciaocomo.it/photogallery_new/images/2018/09/ministro-infrastrutture-danilo-toninelli-149039.660x368.jpg" alt=.660x368">
+   <h4>SCHERZO! NON SONO IO, E' CHE NON HO IMMAGINI</h4> 
+   <p>
+        <h3>I MIEI HOBBIES:</h3>
+        <ul>
+            <li>Finanza</li>
+            <li>Crypto</li>
+            <li>Tecnologia</li>
+            <li>Viaggi</li>
+        </ul>
+    </p>
+    <div>
+      <h4>Di seguito i miei contatti:</h4>
+    <p>
+    email: alessio.toninello@gmail.com
+    </p> 
+    <p> Numero: 333678523 </p>
+    <p> Non ho social.. </p>
+    </div>
+</body>
+</html>
