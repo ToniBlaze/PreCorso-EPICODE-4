@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Fuerteventura</title>
+</head>
+<body>
+<div class="main-section">
+    <div class="image-container">    </div>
+    <h1>Spiaggia di Cofete</h1>
+    <h3>Sud ovest dell'isola di Fuerteventura</h3>
+    <p>
+    <a class="autore"; href="indexcopy.html"><em>Alessio Toninello</em></a>
+    </p>
+    <h6>Luoghi correlati</h6>
+    <ul>
+        <a class="Lista" href="MorroJable.html"><li>Morro Jable</li></a>
+        <a class="Lista" href="Jandia.html"><li>Jandia</li></a>
+        <a class="Lista" href="CostaCalma.html"><li>Costa Calma</li></a>
+        <a class="Lista" href="LaPared.html"><li>La Pared</li></a>
+        <a class="Lista" href="ElCotillo.html"><li>El Cotillo</li></a>
+    </ul>
+<br><br>
+
+</div>
+<footer>
+    Grazie della visita!
+</footer>
+</body>
+</html>
