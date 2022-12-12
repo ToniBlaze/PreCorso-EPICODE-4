@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;1,600&family=Prata&display=swap');
+
+body {
+    margin: 0px;
+    font: Montserrat;
+}
+
+.main-section {
+    padding: 20px 20px 20px 20px
+}
+.image-container{
+    background-image: url(https://fuerteventura.wosappnin.com/wp-content/uploads/2020/05/Cofete-scaled.jpg);
+    height: 500px;
+    background-size: auto;
+    background-position: 100%;   
+}
+.image-container1{
+    background-image: url(https://gofuerteventura.com/wp-content/uploads/2019/03/esmeralda.jpg); 
+    height: 500px;
+    background-size: 80%;
+    background-position: center ;
+    background-repeat: no-repeat;   
+}
+.image-container2{
+    background-image: url(https://www.hotholidays.co.uk/image/original/destination/1516813751.1094_Jable1.jpg); 
+    height: 500px;
+    background-size: 80%;
+    background-position: center ;
+    background-repeat: no-repeat;   
+}
+.image-container3{
+    background-image: url(https://a.loveholidays.com/images/holidays/fuerteventura/jandia/occidental-jandia-mar.jpg); 
+    height: 500px;
+    background-size: 80%;
+    background-position: center ;
+    background-repeat: no-repeat;   
+}
+.image-container4{
+    background-image: url(https://i.ytimg.com/vi/aeeSjhu0-bA/maxresdefault.jpg); 
+    height: 500px;
+    background-size: 80%;
+    background-position: center ;
+    background-repeat: no-repeat;   
+}
+.image-container5{
+    background-image: url(https://i.ccdn.cz/acm/58/794510/l0.jpg); 
+    height: 500px;
+    background-size: 70%;
+    background-position: bottom ;
+    background-repeat: no-repeat;   
+}
+
+h1 {font: Prata; font-size: 64px; font-weight: 400,400; margin-bottom: 0;}
+h3 {font: Prata; font-size: 24px; font-weight: 400,400; margin-bottom: 0; margin-top: 0;}
+h6 {padding: 22px; margin-bottom: 0px; margin-top: 56px; color: white; border-radius: 6px; background-image: linear-gradient(to left,rgb(124, 50, 0), rgb(21, 104, 199)) ;}
+.autore {text-decoration-line: underline; font-weight: 600,600;}
+
+ul {margin-left: 0px; list-style-type: none;}
+.Lista:link {text-decoration-line: none; color: brown; padding-top: 6px; padding-bottom: 6px; padding-left: 22px; border-bottom-width: 1px;border-bottom-color: #dfdfdf;}
+.Lista:visited {text-decoration: none; color: blue;}
+
+footer {
+    background-color: black; color: white;
+    padding: 16px;
+}
